@@ -46,6 +46,9 @@ Aplicar práticas de **Quality Assurance (QA)** em aplicações front-end, utili
 * Verificação de elementos visuais (cards, cores e status)
 * Integridade de links, ícones e imagens
 
+### OBS
+* A página não foi testada pois se assemelha a de Login, contudo, fora enviada em conjunto no projeto apenas para apresentação da interface.
+
 ---
 
 ##  Tecnologias Utilizadas
